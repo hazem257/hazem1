@@ -205,7 +205,7 @@ section{
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: url(ima/coffee-beans-1291656_1280.jpg);
+    background: url(/coffee-beans-1291656_1280.jpg);
     background-size: cover;
     background-position: center;
 }
